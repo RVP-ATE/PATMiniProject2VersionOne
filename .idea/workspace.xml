@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa30c576-d40b-446d-a2a4-ba32fad09bf4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PATMiniProject2VersionOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/pages/adminpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/pages/dashboardpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/pages/homepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/pages/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_cookielogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_createuser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_dashboardmenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_homepageurl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_loginelements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_userexists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoOrangeHRMProject/utilities/excel_utilities.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vLrnO9IKYuo75U8HNRhTBxNyO5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.2testlogin.test_signin_action.executor": "Run",
+    "Python tests.Python tests for 2testlogin.test_signin_action (1).executor": "Run",
+    "Python tests.Python tests for 2testlogin.test_signin_action.executor": "Run",
+    "Python tests.Python tests for test_createuser.test_create_and_login_with_new_user.executor": "Run",
+    "Python tests.Python tests for test_login.test_signin.executor": "Run",
+    "Python tests.Python tests for testcookielogin.test_cookie_login.executor": "Run",
+    "Python tests.Python tests for testcookielogin.test_login_and_save_cookie.executor": "Run",
+    "Python tests.Python tests for testcreateuser.test_create_and_login_with_new_user.executor": "Run",
+    "Python tests.Python tests for testdashboardmenu.test_dashboard_menus.executor": "Run",
+    "Python tests.Python tests for testlogin.test_signin.executor": "Run",
+    "Python tests.Python tests for testloginelements.test_login_elements_visible.executor": "Run",
+    "Python tests.Python tests for testuserexists.test_user_exists.executor": "Run",
+    "Python tests.Python tests in 1.test_homepage_url.py.executor": "Run",
+    "Python tests.Python tests in 1_test_homepage_url.py.executor": "Run",
+    "Python tests.Python tests in 1testhomepageurl.py.executor": "Run",
+    "Python tests.Python tests in testlogin.py.executor": "Run",
+    "Python.1.test_homepage_url.executor": "Run",
+    "Python.adminpage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/INPAVANV/Desktop/P/Log/Pavan_P/GUVI/Pycharm/Python_Selenium/PATMiniProject2VersionOne",
+    "settings.editor.selected.configurable": "configurable.group.project"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PATMiniProject2VersionOne\DemoOrangeHRMProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_createuser.test_create_and_login_with_new_user">
+    <configuration name="Python tests for DemoOrangeHRMProject.tests.test_cookielogin.test_cookie_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PATMiniProject2VersionOne" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DemoOrangeHRMProject/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DemoOrangeHRMProject.tests.test_cookielogin.test_cookie_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for DemoOrangeHRMProject.tests.test_cookielogin.test_login_and_save_cookie" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PATMiniProject2VersionOne" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DemoOrangeHRMProject/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DemoOrangeHRMProject.tests.test_cookielogin.test_login_and_save_cookie&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_createuser.test_create_and_login_with_new_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PATMiniProject2VersionOne" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DemoOrangeHRMProject/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_createuser.test_create_and_login_with_new_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login.test_signin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PATMiniProject2VersionOne" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PATMiniProject2VersionOne" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.test_signin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PATMiniProject2VersionOne" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DemoOrangeHRMProject/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/DemoOrangeHRMProject/tests/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.2testlogin.test_signin_action" />
+      <item itemvalue="Python tests.Python tests for test_createuser.test_create_and_login_with_new_user" />
+      <item itemvalue="Python tests.Python tests for DemoOrangeHRMProject.tests.test_cookielogin.test_cookie_login" />
+      <item itemvalue="Python tests.Python tests for DemoOrangeHRMProject.tests.test_cookielogin.test_login_and_save_cookie" />
+      <item itemvalue="Python tests.Python tests for test_login.test_signin" />
+      <item itemvalue="Python tests.Python tests in test_login.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_createuser.test_create_and_login_with_new_user" />
+        <item itemvalue="Python tests.Python tests for test_login.test_signin" />
+        <item itemvalue="Python tests.Python tests for DemoOrangeHRMProject.tests.test_cookielogin.test_cookie_login" />
+        <item itemvalue="Python tests.Python tests for DemoOrangeHRMProject.tests.test_cookielogin.test_login_and_save_cookie" />
+        <item itemvalue="Python tests.Python tests in test_login.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa30c576-d40b-446d-a2a4-ba32fad09bf4" name="Changes" comment="" />
+      <created>1743935362032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743935362032</updated>
+    </task>
+    <servers />
+  </component>
+</project>
